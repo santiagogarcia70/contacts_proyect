@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "338384781123",
+    "firebase_url": "https://contactos-3a4e0.firebaseio.com",
+    "project_id": "contactos-3a4e0",
+    "storage_bucket": "contactos-3a4e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338384781123:android:b343a9a17b40952d75f9f6",
+        "android_client_info": {
+          "package_name": "com.example.contacts_proyect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338384781123-a0d8cg4d669hrn6jcmt9556opk5ttp65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contacts_proyect",
+            "certificate_hash": "9e92c2824f2073f7031b9f4c8222ef8b9c883976"
+          }
+        },
+        {
+          "client_id": "338384781123-v2ms8n4jksc4m9nb86msrfome099unop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AGRCdx5_Kzt4fBNIY3KVLhEDlvlJ8Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338384781123-v2ms8n4jksc4m9nb86msrfome099unop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
